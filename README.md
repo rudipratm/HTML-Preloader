@@ -4,6 +4,6 @@ Ini adalah preloader yang saya buat menggunakan HTML dan CSS. Preloader ini bera
 Berikut ini adalah Pen sumber yang saya gunakan
 Link : https://codepen.io/weaintplastic/pen/qEMZbx
 # Tentang
-Preloader v.1.0
+Preloader v.1.0<br>
 Author https://github.com/rudipratm<br>
 Original Author https://codepen.io/weaintplastic
